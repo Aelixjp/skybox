@@ -1,7 +1,7 @@
 # A simple skybox implementation with pointer lock API
 
 This is a simple implementation of a 2D skybox with the use of `HTMLCanvas` Element and `PointerLock API`.
-To execute this demo you only need to run it `within a server`, then click anywhere on the page and move the mouse to enjoy... you could use the `ESC` scape to gain access againt to your mouse.
+To execute this demo you only need to run it `within a server`, then click anywhere on the page and move the mouse to enjoy... you could use the `ESC` button to scape and gain access again to the mouse.
 
 ## Note: 
 
